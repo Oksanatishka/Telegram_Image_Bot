@@ -1,0 +1,2 @@
+Resources:
+https://www.toptal.com/python/telegram-bot-tutorial-python
